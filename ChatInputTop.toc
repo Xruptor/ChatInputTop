@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: ChatInputTop
+## Author: Derkyle (Creator of ItemSync)
+## Version: 1.2
+## Notes: All this does is move the input box to the top when typing in the chat frame.
+ChatInputTop.lua
