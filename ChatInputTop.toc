@@ -1,6 +1,6 @@
 ## Interface: 40000
 ## Title: ChatInputTop
 ## Author: Xruptor
-## Version: 1.4
+## Version: 1.5
 ## Notes: All this does is move the input box to the top when typing in the chat frame.
 ChatInputTop.lua
