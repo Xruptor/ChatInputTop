@@ -1,12 +1,12 @@
 #@retail@
-## Interface: 90001
+## Interface: 90005
 #@end-retail@
 #@non-retail@
 # ## Interface: 11305
 #@end-non-retail@
 ## Title: ChatInputTop
 ## Author: Xruptor
-## Version: 2.0
+## Version: 2.1
 ## X-Curse-Project-ID: 28602
 ## X-WoWI-ID: 12375
 ## Notes: All this does is move the input box to the top when typing in the chat frame.
