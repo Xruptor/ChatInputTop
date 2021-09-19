@@ -1,10 +1,10 @@
-## Interface: 90005
-## Interface-Retail: 90005
+## Interface: 90100
+## Interface-Retail: 90100
 ## Interface-Classic: 11307
-## Interface-BCC: 20501
+## Interface-BCC: 20502
 ## Title: ChatInputTop
 ## Author: Xruptor
-## Version: 2.4
+## Version: 2.5
 ## X-Curse-Project-ID: 28602
 ## X-WoWI-ID: 12375
 ## Notes: All this does is move the input box to the top when typing in the chat frame.
