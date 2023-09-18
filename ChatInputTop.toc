@@ -1,10 +1,11 @@
-## Interface: 100100
-## Interface-Retail: 100100
-## Interface-Classic: 11403
-## Interface-Wrath: 30401
+## Interface: 100107
+## Interface-Retail: 100107
+## Interface-Classic: 11404
+## Interface-Wrath: 30402
 ## Title: ChatInputTop
 ## Author: Xruptor
-## Version: 3.0
+## Version: 3.1
+## IconTexture: 4548890
 ## X-Curse-Project-ID: 28602
 ## X-WoWI-ID: 12375
 ## X-Wago-ID: 0mNwg2No
