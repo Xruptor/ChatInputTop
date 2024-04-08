@@ -5,7 +5,7 @@
 ## Interface-Cata: 40400
 ## Title: ChatInputTop
 ## Author: Xruptor
-## Version: 3.2
+## Version: 3.3
 ## IconTexture: 4548890
 ## X-Curse-Project-ID: 28602
 ## X-WoWI-ID: 12375
