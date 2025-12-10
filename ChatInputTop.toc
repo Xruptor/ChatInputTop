@@ -1,7 +1,7 @@
-## Interface: 110200, 50500, 40402, 30405, 20504, 11507
+## Interface: 110207, 50502, 40402, 30405, 20504, 11508
 ## Title: ChatInputTop
 ## Author: Xruptor
-## Version: 3.6
+## Version: 3.7
 ## IconTexture: 4548890
 ## X-Curse-Project-ID: 28602
 ## X-WoWI-ID: 12375
